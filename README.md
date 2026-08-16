@@ -88,7 +88,6 @@ The application is designed to work across desktop, tablet, and smaller screen s
 - CSS
 - Vite
 - LocalStorage
-- [Add any libraries from your package.json that you actually used]
 
 ## ⚙️ How It Works
 
